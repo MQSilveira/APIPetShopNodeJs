@@ -42,12 +42,18 @@ A API estará disponível em `http://localhost:3000` por padrão. Certifique-se 
 - **PUT /api/cliente/:id**: Atualizar um cliente pelo ID
 - **DELETE /api/cliente/:id**: Excluir um cliente pelo ID
 
+![Get clientes](images/get_clientes.png)
+
+
 ### Rotas de Cachorro
 - **GET /api/cachorros**: Obter todos os cachorros
 - **GET /api/cachorro/:id**: Obter um cachorro pelo ID
 - **POST /api/cachorro**: Criar um novo cachorro
 - **PUT /api/cachorro/:id**: Atualizar um cachorro pelo ID
 - **DELETE /api/cachorro/:id**: Excluir um cachorro pelo ID
+
+![Get clientes](images/get_cachorros.png)
+
 
 ### Rotas de Atendimento
 - **GET /api/atendimentos**: Obter todos os atendimentos
@@ -56,6 +62,9 @@ A API estará disponível em `http://localhost:3000` por padrão. Certifique-se 
 - **PUT /api/atendimento/:id**: Atualizar um atendimento pelo ID
 - **DELETE /api/atendimento/:id**: Excluir um atendimento pelo ID
 - **GET /api/atendimentos/:id**: Obter todos os atendimentos de um cachorro pelo ID do cachorro
+
+![Get clientes](images/get_atendimentos.png)
+
 
 
 ## Contribuições
